@@ -51,6 +51,11 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Operating Instructions
+For detailed guidance, please refer to the [User Manual](https://github.com/jetsgarcia/atlas-documentation/blob/main/Operating%20Instructions.md).
+
+
 ## User Roles
 
 - **Administrator**: System configuration, user management
